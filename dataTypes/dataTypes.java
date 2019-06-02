@@ -1,3 +1,5 @@
+package dataTypes;
+
 import java.util.*;
 import java.io.*;
 
